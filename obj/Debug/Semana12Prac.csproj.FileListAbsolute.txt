@@ -1,8 +1,0 @@
-C:\Users\Adria\OneDrive\Escritorio\TRABAJOS FA_UPN\FA_SEMANA12\PRACTICA_T3\Semana12Prac\bin\Debug\Semana12Prac.exe.config
-C:\Users\Adria\OneDrive\Escritorio\TRABAJOS FA_UPN\FA_SEMANA12\PRACTICA_T3\Semana12Prac\bin\Debug\Semana12Prac.exe
-C:\Users\Adria\OneDrive\Escritorio\TRABAJOS FA_UPN\FA_SEMANA12\PRACTICA_T3\Semana12Prac\bin\Debug\Semana12Prac.pdb
-C:\Users\Adria\OneDrive\Escritorio\TRABAJOS FA_UPN\FA_SEMANA12\PRACTICA_T3\Semana12Prac\obj\Debug\Semana12Prac.csproj.AssemblyReference.cache
-C:\Users\Adria\OneDrive\Escritorio\TRABAJOS FA_UPN\FA_SEMANA12\PRACTICA_T3\Semana12Prac\obj\Debug\Semana12Prac.csproj.CoreCompileInputs.cache
-C:\Users\Adria\OneDrive\Escritorio\TRABAJOS FA_UPN\FA_SEMANA12\PRACTICA_T3\Semana12Prac\obj\Debug\Semana12Prac.exe
-C:\Users\Adria\OneDrive\Escritorio\TRABAJOS FA_UPN\FA_SEMANA12\PRACTICA_T3\Semana12Prac\obj\Debug\Semana12Prac.pdb
-C:\Users\Adria\OneDrive\Escritorio\TRABAJOS FA_UPN\FA_SEMANA12\PRACTICA_T3\Semana12Prac\obj\Debug\Semana12Prac.exe.config
